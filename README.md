@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About me👨🏻‍💻:
+### About me👨🏻‍💻:
 
 - I'm 19 years old and a computer engineering student at UFPE
 - 🍎 Apple Developer Academy Student
