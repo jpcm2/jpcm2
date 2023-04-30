@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 ### About me👨🏻‍💻:
 
 - I'm 20 years old and a computer engineering student at UFPE
+- 👨🏻‍💻 Competitive programmer : ACM-ICPC UFPE Team
 - 🍎 Apple Developer Academy Student
 - 🌱 I’m currently learning Swift
-- 💬 I’m interest in technology, software engineer topics and programming languages
+- 💬 I’m interest in technology, software engineer topics, algorithms and data structures
 - 🔭 I’m currently working on Mobile development
 
 <div>
