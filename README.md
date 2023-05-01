@@ -26,11 +26,8 @@ Here are some ideas to get you started:
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpcm2&theme=dracula&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcm2&layout=compact&theme=dracula&langs_count=16&hide=Jupyter Notebook"/>
 </div>
 
 ## 
-
-![Snake Animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/8082840dd4c64b2b8df9e2dc23b1730bbf0c0e73/github-contribution-grid-snake.svg)
 
 ## 
